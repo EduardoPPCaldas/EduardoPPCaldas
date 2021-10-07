@@ -1,8 +1,12 @@
 ### Hi there 👋
+  
+- I am a fullstack developer who loves learning new technologies. Living by the rule that says: Grow a little bit everyday
+- I live in Salvador - Bahia in Brazil.
+
+- 🌱 I’m currently learning Back-end Technologies, .NET, Django and Node.js
+- 🤔 I’m looking for help with Testing, DevOps
 
 
-- 🌱 I’m currently learning HTML, CSS , Javascript, SQL, Node.js, React, React Native
-- 🤔 I’m looking for help with Dart, Flutter, Typescript and React Native
 - 📫 How to reach me: eduardocaldas.dev@gmail.com
 
 
