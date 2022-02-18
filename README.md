@@ -12,3 +12,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoPPCaldas)](https://github.com/anuraghazra/github-readme-stats)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=EduardoPPCaldas&repo=EduardoPPCaldas&theme=react)](https://github.com/EduardoPPCaldas/EduardoPPCaldas)
